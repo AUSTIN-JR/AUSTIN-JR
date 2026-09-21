@@ -1,7 +1,10 @@
 <div align="center">
 
   <h1>Hi there, I'm Austin J Robin 👋</h1>
-  <p><em>Passionate about Cyber Security and Ethical Hacking | He/Him</em></p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Cyber+Security+Researcher;Ethical+Hacker;CSE+Student+%7C+Specializing+in+Cybersecurity;GitHub+Addict+%7C+Tech+Explorer;Building+%26+Breaking+in+the+Digital+World" alt="Typing SVG" />
+
+  <br/><br/>
 
   <p>
     <a href="https://www.linkedin.com/in/austin-j-robin">
@@ -19,9 +22,10 @@
 ### 🛡️ About Me
 
 - 🎓 **Education:** Pursuing B.Tech in Computer Science and Engineering (Cyber Security) at Karunya University (1st Year)
-- 📍 **Location:** Tamil Nadu , India
+- 📍 **Location:** Tamil Nadu / Kerala, India
 - 👀 **Focus Areas:** Cyber Security, Ethical Hacking, Network Defense
-- 🚀 **Philosophy:** Building, breaking, and securing things with code and curiosity
+- 🚀 **Philosophy:** Building, breaking, and securing things with code and curiosity!
+- 😄 **Pronouns:** He/Him
 - 📫 **Contact:** [robinaustinj@gmail.com](mailto:robinaustinj@gmail.com)
 
 ---
@@ -29,8 +33,9 @@
 ### 🛠️ Skills & Toolset
 
 - **Languages:** Python, C/C++, Bash, SQL
-- **Security & Systems:** Linux (Kali, Ubuntu)
-- **Core Concepts:** 
+- **Operating Systems & Environments:** Linux (Kali, Ubuntu), Windows
+- **Security Tools:** Wireshark, Nmap, Metasploit, Burp Suite
+- **Core Concepts:** Network Security, Web Application Security, Cryptography, OS Hardening
 
 ---
 
