@@ -19,7 +19,7 @@
 ### 🛡️ About Me
 
 - 🎓 **Education:** Pursuing B.Tech in Computer Science and Engineering (Cyber Security) at Karunya University (1st Year)
-- 📍 **Location:** Tamil Nadu / Kerala, India
+- 📍 **Location:** Tamil Nadu , India
 - 👀 **Focus Areas:** Cyber Security, Ethical Hacking, Network Defense
 - 🚀 **Philosophy:** Building, breaking, and securing things with code and curiosity
 - 📫 **Contact:** [robinaustinj@gmail.com](mailto:robinaustinj@gmail.com)
@@ -29,8 +29,8 @@
 ### 🛠️ Skills & Toolset
 
 - **Languages:** Python, C/C++, Bash, SQL
-- **Security & Systems:** Linux (Kali, Ubuntu), Wireshark, Nmap, Metasploit, Burp Suite
-- **Core Concepts:** Network Security, Web Application Security, Cryptography, OS Hardening
+- **Security & Systems:** Linux (Kali, Ubuntu)
+- **Core Concepts:** 
 
 ---
 
