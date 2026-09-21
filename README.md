@@ -1,54 +1,52 @@
 <div align="center">
 
-  <h1>Hi there, I'm Austin J Robin 👋</h1>
+# 🦇 AFTER HOURS
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Cyber+Security+Researcher;Ethical+Hacker;CSE+Student+%7C+Specializing+in+Cybersecurity;GitHub+Addict+%7C+Tech+Explorer;Building+%26+Breaking+in+the+Digital+World" alt="Typing SVG" />
+**Cybersecurity student · Vibe coder · Story-driven gamer**
 
-  <br/><br/>
+*Gotham atmosphere. Headphones on. Something unfinished in the editor.*
 
-  <p>
-    <a href="https://www.linkedin.com/in/austin-j-robin">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:robinaustinj@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Cybersecurity+student.+Vibe+coder.;Batman+atmosphere.+Fight+Club+questions.;Tupac.+Kendrick.+Kanye.+MJ.;Here+for+the+story.+Staying+for+the+lore.;One+more+tweak.+One+more+chapter." alt="Cybersecurity, vibe coding, music, and story games" />
 
 </div>
 
 ---
 
-### 🛡️ About Me
+## 🧩 Behind the Profile
 
-- 🎓 **Education:** Pursuing B.Tech in Computer Science and Engineering (Cyber Security) at Karunya University (1st Year)
-- 📍 **Location:** Tamil Nadu / Kerala, India
-- 👀 **Focus Areas:** Cyber Security, Ethical Hacking, Network Defense
-- 🚀 **Philosophy:** Building, breaking, and securing things with code and curiosity!
-- 😄 **Pronouns:** He/Him
-- 📫 **Contact:** [robinaustinj@gmail.com](mailto:robinaustinj@gmail.com)
+I'm a **cybersecurity student** with a thing for technology, story games, and turning ideas into something I can actually use.
 
----
+**Vibe coding** is my approach to building: start with an idea, work with AI, experiment, and keep shaping it until it feels like mine.
 
-### 🛠️ Skills & Toolset
+Outside that, it's Batman, Fight Club, and a soundtrack that moves between **Tupac, Kendrick Lamar, Kanye West, and Michael Jackson**.
 
-- **Languages:** Python, C/C++, Bash, SQL
-- **Operating Systems & Environments:** Linux (Kali, Ubuntu), Windows
-- **Security Tools:** Wireshark, Nmap, Metasploit, Burp Suite
-- **Core Concepts:** Network Security, Web Application Security, Cryptography, OS Hardening
+Some of my interests live in a terminal. Others come with a soundtrack or end credits.
 
 ---
 
-### 📊 GitHub Activity
+## 💻 Build Mode
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AUSTIN-JR&show_icons=true&theme=tokyonight&hide_border=true" alt="Austin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AUSTIN-JR&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+| Part of my world | What it looks like |
+| :--- | :--- |
+| 🛡️ **Education** | Studying cybersecurity |
+| 🤖 **Coding style** | Vibe coding with AI, curiosity, and iteration |
+| 🔎 **Tech interests** | Security, coding, and exploring what technology can do |
+| 🛠️ **Project energy** | “What if I made this?” followed by a lot of tweaking |
+| 🎯 **Direction** | Keep learning. Build things that feel personal. |
+
+> This profile is a work in progress. So am I.
 
 ---
 
-### 🌐 Connect with Me
+## 🎮 Here for the Story
 
-- **LinkedIn:** [austin-j-robin](https://www.linkedin.com/in/austin-j-robin)
-- **Email:** [robinaustinj@gmail.com](mailto:robinaustinj@gmail.com)
+**Story-driven games are my kind of games.**
+
+The characters, the atmosphere, the lore—the parts that make a world worth spending time in. Give me a reason to care about the next chapter.
+
+```text
+GAME PREFERENCES
+├── Story worth following
+├── Characters worth remembering
+├── Atmosphere worth getting lost in
+└── An ending worth sitting with
