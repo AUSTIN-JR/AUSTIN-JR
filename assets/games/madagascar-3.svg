@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1e2f"/>
+      <stop offset="100%" stop-color="#12131c"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#60a5fa"/><stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="12" ry="12" fill="url(#bgGrad)" />
+  <rect width="46" height="46" x="1" y="1" rx="11" ry="11" fill="none" stroke="rgba(255, 255, 255, 0.09)" stroke-width="1" />
+  
+    <text x="24" y="25" font-family="Segoe UI Emoji, Apple Color Emoji, sans-serif" font-size="16" text-anchor="middle">🎪</text>
+    <text x="24" y="40" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="6" font-weight="900" fill="url(#accentGrad)" text-anchor="middle" letter-spacing="0.4">MADAGASCAR 3</text>
+    
+</svg>

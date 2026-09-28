@@ -157,7 +157,7 @@
 
 <div align="center">
 
-## 🎮 The Completed Campaign Vault • 67 Games Conquered
+## 🎮 The Completed Campaign Vault • 67 Conquered Games
 
 <p align="center">
   <img src="https://img.shields.io/badge/TOTAL_GAMES_CONQUERED-67_TITLES-E11D48?style=for-the-badge&logo=gamepad&logoColor=white" alt="Total Games" />
@@ -167,124 +167,124 @@
 
 > *"Give me a story worth following, characters worth remembering, and an atmosphere worth losing sleep over. These are the worlds I entered, survived, and finished."*
 
-</div>
-
 <br/>
 
-### 🦇 1. Batman: The Arkhamverse & DC
-<p align="left">
-  <img src="https://img.shields.io/badge/Batman:_Arkham_Asylum_(2009)-CLEARED-000000?style=for-the-badge&logo=batman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Batman:_Arkham_City_(2011)-CLEARED-000000?style=for-the-badge&logo=batman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Batman:_Arkham_Origins_(2013)-CLEARED-000000?style=for-the-badge&logo=batman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Batman:_Arkham_Knight_(2015)-CLEARED-000000?style=for-the-badge&logo=batman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Batman:_Arkham_VR_(2016)-CLEARED-000000?style=for-the-badge&logo=playstationvr&logoColor=white" />
-  <img src="https://img.shields.io/badge/Suicide_Squad:_Kill_the_Justice_League_(2024)-CLEARED-7C3AED?style=for-the-badge&logo=dc&logoColor=white" />
+### 🦇 Batman & Arkhamverse
+<p align="center">
+  <img src="./assets/games/batman-asylum.svg" width="48" height="48" title="Batman: Arkham Asylum (2009)" alt="Arkham Asylum" />
+  <img src="./assets/games/batman-city.svg" width="48" height="48" title="Batman: Arkham City (2011)" alt="Arkham City" />
+  <img src="./assets/games/batman-origins.svg" width="48" height="48" title="Batman: Arkham Origins (2013)" alt="Arkham Origins" />
+  <img src="./assets/games/batman-knight.svg" width="48" height="48" title="Batman: Arkham Knight (2015)" alt="Arkham Knight" />
+  <img src="./assets/games/batman-vr.svg" width="48" height="48" title="Batman: Arkham VR (2016)" alt="Arkham VR" />
+  <img src="./assets/games/suicide-squad.svg" width="48" height="48" title="Suicide Squad: Kill the Justice League (2024)" alt="Suicide Squad" />
 </p>
 
-### ⚔️ 2. God of War: The Complete Greek & Norse Sagas (9/9 Titles)
-<p align="left">
-  <img src="https://img.shields.io/badge/God_of_War_(2005)-CLEARED-B91C1C?style=for-the-badge&logo=playstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/God_of_War_II_(2007)-CLEARED-B91C1C?style=for-the-badge&logo=playstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/God_of_War:_Betrayal_(2007)-CLEARED-B91C1C?style=for-the-badge&logo=playstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/God_of_War:_Chains_of_Olympus_(2008)-CLEARED-B91C1C?style=for-the-badge&logo=playstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/God_of_War_III_(2010)-CLEARED-B91C1C?style=for-the-badge&logo=playstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/God_of_War:_Ghost_of_Sparta_(2010)-CLEARED-B91C1C?style=for-the-badge&logo=playstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/God_of_War:_Ascension_(2013)-CLEARED-B91C1C?style=for-the-badge&logo=playstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/God_of_War_(2018)-CLEARED-1E3A8A?style=for-the-badge&logo=playstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/God_of_War_Ragnarök_(2022)-CLEARED-2563EB?style=for-the-badge&logo=playstation&logoColor=white" />
+### ⚔️ God of War: Full Greek & Norse Sagas (9/9 Finished)
+<p align="center">
+  <img src="./assets/games/gow-1.svg" width="48" height="48" title="God of War (2005)" alt="God of War I" />
+  <img src="./assets/games/gow-2.svg" width="48" height="48" title="God of War II (2007)" alt="God of War II" />
+  <img src="./assets/games/gow-betrayal.svg" width="48" height="48" title="God of War: Betrayal (2007)" alt="God of War Betrayal" />
+  <img src="./assets/games/gow-chains.svg" width="48" height="48" title="God of War: Chains of Olympus (2008)" alt="Chains of Olympus" />
+  <img src="./assets/games/gow-3.svg" width="48" height="48" title="God of War III (2010)" alt="God of War III" />
+  <img src="./assets/games/gow-ghost.svg" width="48" height="48" title="God of War: Ghost of Sparta (2010)" alt="Ghost of Sparta" />
+  <img src="./assets/games/gow-ascension.svg" width="48" height="48" title="God of War: Ascension (2013)" alt="Ascension" />
+  <img src="./assets/games/gow-2018.svg" width="48" height="48" title="God of War (2018)" alt="God of War 2018" />
+  <img src="./assets/games/gow-ragnarok.svg" width="48" height="48" title="God of War Ragnarök (2022)" alt="God of War Ragnarok" />
 </p>
 
-### 🗡️ 3. Assassin's Creed: The Complete Animus Chronicles (13 Titles)
-<p align="left">
-  <img src="https://img.shields.io/badge/Assassin's_Creed_(2007)-CLEARED-1F2937?style=for-the-badge&logo=ubisoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assassin's_Creed_II_(2009)-CLEARED-1F2937?style=for-the-badge&logo=ubisoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assassin's_Creed_Brotherhood_(2010)-CLEARED-1F2937?style=for-the-badge&logo=ubisoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assassin's_Creed_Revelations_(2011)-CLEARED-1F2937?style=for-the-badge&logo=ubisoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assassin's_Creed_III_(2012)-CLEARED-1F2937?style=for-the-badge&logo=ubisoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assassin's_Creed_IV:_Black_Flag_(2013)-CLEARED-047857?style=for-the-badge&logo=ubisoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assassin's_Creed_Rogue_(2014)-CLEARED-1F2937?style=for-the-badge&logo=ubisoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assassin's_Creed_Unity_(2014)-CLEARED-1E40AF?style=for-the-badge&logo=ubisoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assassin's_Creed_Syndicate_(2015)-CLEARED-1F2937?style=for-the-badge&logo=ubisoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assassin's_Creed_Origins_(2017)-CLEARED-D97706?style=for-the-badge&logo=ubisoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assassin's_Creed_Odyssey_(2018)-CLEARED-B45309?style=for-the-badge&logo=ubisoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assassin's_Creed_Valhalla_(2020)-CLEARED-065F46?style=for-the-badge&logo=ubisoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assassin's_Creed_Mirage_(2023)-CLEARED-D97706?style=for-the-badge&logo=ubisoft&logoColor=white" />
+### 🗡️ Assassin's Creed Chronicles (13 Sagas)
+<p align="center">
+  <img src="./assets/games/ac-1.svg" width="48" height="48" title="Assassin's Creed (2007)" alt="Assassin's Creed" />
+  <img src="./assets/games/ac-2.svg" width="48" height="48" title="Assassin's Creed II (2009)" alt="Assassin's Creed II" />
+  <img src="./assets/games/ac-brotherhood.svg" width="48" height="48" title="Assassin's Creed Brotherhood (2010)" alt="AC Brotherhood" />
+  <img src="./assets/games/ac-revelations.svg" width="48" height="48" title="Assassin's Creed Revelations (2011)" alt="AC Revelations" />
+  <img src="./assets/games/ac-3.svg" width="48" height="48" title="Assassin's Creed III (2012)" alt="AC III" />
+  <img src="./assets/games/ac-4.svg" width="48" height="48" title="Assassin's Creed IV: Black Flag (2013)" alt="Black Flag" />
+  <img src="./assets/games/ac-rogue.svg" width="48" height="48" title="Assassin's Creed Rogue (2014)" alt="AC Rogue" />
+  <img src="./assets/games/ac-unity.svg" width="48" height="48" title="Assassin's Creed Unity (2014)" alt="AC Unity" />
+  <img src="./assets/games/ac-syndicate.svg" width="48" height="48" title="Assassin's Creed Syndicate (2015)" alt="AC Syndicate" />
+  <img src="./assets/games/ac-origins.svg" width="48" height="48" title="Assassin's Creed Origins (2017)" alt="AC Origins" />
+  <img src="./assets/games/ac-odyssey.svg" width="48" height="48" title="Assassin's Creed Odyssey (2018)" alt="AC Odyssey" />
+  <img src="./assets/games/ac-valhalla.svg" width="48" height="48" title="Assassin's Creed Valhalla (2020)" alt="AC Valhalla" />
+  <img src="./assets/games/ac-mirage.svg" width="48" height="48" title="Assassin's Creed Mirage (2023)" alt="AC Mirage" />
 </p>
 
-### 🏙️ 4. Grand Theft Auto: The 3D Era Masterpieces
-<p align="left">
-  <img src="https://img.shields.io/badge/Grand_Theft_Auto_III_(2001)-CLEARED-374151?style=for-the-badge&logo=rockstargames&logoColor=white" />
-  <img src="https://img.shields.io/badge/GTA:_Vice_City_(2002)-CLEARED-EC4899?style=for-the-badge&logo=rockstargames&logoColor=white" />
-  <img src="https://img.shields.io/badge/GTA:_San_Andreas_(2004)-CLEARED-F59E0B?style=for-the-badge&logo=rockstargames&logoColor=white" />
-  <img src="https://img.shields.io/badge/GTA:_Liberty_City_Stories_(2005)-CLEARED-4B5563?style=for-the-badge&logo=rockstargames&logoColor=white" />
-  <img src="https://img.shields.io/badge/GTA:_Vice_City_Stories_(2006)-CLEARED-F43F5E?style=for-the-badge&logo=rockstargames&logoColor=white" />
+### 🏙️ Grand Theft Auto: 3D Universe
+<p align="center">
+  <img src="./assets/games/gta-3.svg" width="48" height="48" title="Grand Theft Auto III (2001)" alt="GTA III" />
+  <img src="./assets/games/gta-vc.svg" width="48" height="48" title="Grand Theft Auto: Vice City (2002)" alt="GTA Vice City" />
+  <img src="./assets/games/gta-sa.svg" width="48" height="48" title="Grand Theft Auto: San Andreas (2004)" alt="GTA San Andreas" />
+  <img src="./assets/games/gta-lcs.svg" width="48" height="48" title="Grand Theft Auto: Liberty City Stories (2005)" alt="GTA Liberty City Stories" />
+  <img src="./assets/games/gta-vcs.svg" width="48" height="48" title="Grand Theft Auto: Vice City Stories (2006)" alt="GTA Vice City Stories" />
 </p>
 
-### 🧭 5. Uncharted: Nathan Drake & Chloe Frazer Adventures
-<p align="left">
-  <img src="https://img.shields.io/badge/Uncharted:_Drake's_Fortune_(2007)-CLEARED-0284C7?style=for-the-badge&logo=playstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/Uncharted_2:_Among_Thieves_(2009)-CLEARED-0284C7?style=for-the-badge&logo=playstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/Uncharted_3:_Drake's_Deception_(2011)-CLEARED-0284C7?style=for-the-badge&logo=playstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/Uncharted_4:_A_Thief's_End_(2016)-CLEARED-0369A1?style=for-the-badge&logo=playstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/Uncharted:_The_Lost_Legacy_(2017)-CLEARED-075985?style=for-the-badge&logo=playstation&logoColor=white" />
+### 🧭 Uncharted: Nathan Drake & Chloe Frazer
+<p align="center">
+  <img src="./assets/games/uncharted-1.svg" width="48" height="48" title="Uncharted: Drake's Fortune (2007)" alt="Drake's Fortune" />
+  <img src="./assets/games/uncharted-2.svg" width="48" height="48" title="Uncharted 2: Among Thieves (2009)" alt="Among Thieves" />
+  <img src="./assets/games/uncharted-3.svg" width="48" height="48" title="Uncharted 3: Drake's Deception (2011)" alt="Drake's Deception" />
+  <img src="./assets/games/uncharted-4.svg" width="48" height="48" title="Uncharted 4: A Thief's End (2016)" alt="A Thief's End" />
+  <img src="./assets/games/uncharted-lost-legacy.svg" width="48" height="48" title="Uncharted: The Lost Legacy (2017)" alt="The Lost Legacy" />
 </p>
 
-### 🕸️ 6. The Spider-Man Multiverse
-<p align="left">
-  <img src="https://img.shields.io/badge/Spider--Man_(2000)-CLEARED-E11D48?style=for-the-badge&logo=marvel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spider--Man_2_(2004)-CLEARED-E11D48?style=for-the-badge&logo=marvel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spider--Man:_Web_of_Shadows_(2008)-CLEARED-000000?style=for-the-badge&logo=marvel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Marvel's_Spider--Man:_Miles_Morales-CLEARED-E11D48?style=for-the-badge&logo=playstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/Marvel's_Spider--Man_2-CLEARED-BE123C?style=for-the-badge&logo=playstation&logoColor=white" />
+### 🕸️ The Spider-Man Multiverse
+<p align="center">
+  <img src="./assets/games/spiderman-2000.svg" width="48" height="48" title="Spider-Man (2000)" alt="Spider-Man 2000" />
+  <img src="./assets/games/spiderman-2.svg" width="48" height="48" title="Spider-Man 2 (2004)" alt="Spider-Man 2" />
+  <img src="./assets/games/spiderman-web-of-shadows.svg" width="48" height="48" title="Spider-Man: Web of Shadows (2008)" alt="Web of Shadows" />
+  <img src="./assets/games/spiderman-miles-morales.svg" width="48" height="48" title="Marvel's Spider-Man: Miles Morales" alt="Miles Morales" />
+  <img src="./assets/games/spiderman-2-ps5.svg" width="48" height="48" title="Marvel's Spider-Man 2" alt="Spider-Man 2 PS5" />
 </p>
 
-### ⏳ 7. Prince of Persia: Sands of Time & The Lost Crown
-<p align="left">
-  <img src="https://img.shields.io/badge/PoP:_The_Sands_of_Time_(2003)-CLEARED-D97706?style=for-the-badge&logo=ubisoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/PoP:_Warrior_Within_(2004)-CLEARED-7F1D1D?style=for-the-badge&logo=ubisoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/PoP:_The_Two_Thrones_(2005)-CLEARED-991B1B?style=for-the-badge&logo=ubisoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prince_of_Persia_(2008)-CLEARED-D97706?style=for-the-badge&logo=ubisoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/PoP:_The_Forgotten_Sands_(2010)-CLEARED-B45309?style=for-the-badge&logo=ubisoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/PoP:_The_Lost_Crown_(2024)-CLEARED-6366F1?style=for-the-badge&logo=ubisoft&logoColor=white" />
+### ⏳ Prince of Persia Saga
+<p align="center">
+  <img src="./assets/games/pop-sands.svg" width="48" height="48" title="Prince of Persia: The Sands of Time (2003)" alt="Sands of Time" />
+  <img src="./assets/games/pop-warrior.svg" width="48" height="48" title="Prince of Persia: Warrior Within (2004)" alt="Warrior Within" />
+  <img src="./assets/games/pop-two-thrones.svg" width="48" height="48" title="Prince of Persia: The Two Thrones (2005)" alt="The Two Thrones" />
+  <img src="./assets/games/pop-2008.svg" width="48" height="48" title="Prince of Persia (2008)" alt="PoP 2008" />
+  <img src="./assets/games/pop-forgotten.svg" width="48" height="48" title="Prince of Persia: The Forgotten Sands (2010)" alt="Forgotten Sands" />
+  <img src="./assets/games/pop-lost-crown.svg" width="48" height="48" title="Prince of Persia: The Lost Crown (2024)" alt="The Lost Crown" />
 </p>
 
-### 🕶️ 8. Hitman: Agent 47 Master Assassin
-<p align="left">
-  <img src="https://img.shields.io/badge/Hitman:_Blood_Money_(2006)-CLEARED-000000?style=for-the-badge&logo=target&logoColor=red" />
-  <img src="https://img.shields.io/badge/Hitman:_Absolution_(2012)-CLEARED-991B1B?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hitman:_World_of_Assassination_(Trilogy)-CLEARED-000000?style=for-the-badge&logo=target&logoColor=white" />
+### 🕶️ Hitman: Agent 47 World of Assassination
+<p align="center">
+  <img src="./assets/games/hitman-blood-money.svg" width="48" height="48" title="Hitman: Blood Money (2006)" alt="Hitman Blood Money" />
+  <img src="./assets/games/hitman-absolution.svg" width="48" height="48" title="Hitman: Absolution (2012)" alt="Hitman Absolution" />
+  <img src="./assets/games/hitman-woa.svg" width="48" height="48" title="Hitman: World of Assassination (Hitman Trilogy)" alt="Hitman WoA" />
 </p>
 
-### 🧬 9. Open-World Cyber Vigilantes & Chaos
-<p align="left">
-  <img src="https://img.shields.io/badge/Prototype_(2009)-CLEARED-881337?style=for-the-badge&logo=activision&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prototype_2_(2012)-CLEARED-9F1239?style=for-the-badge&logo=activision&logoColor=white" />
-  <img src="https://img.shields.io/badge/Just_Cause_(2006)-CLEARED-E11D48?style=for-the-badge&logo=squareenix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Just_Cause_2_(2010)-CLEARED-E11D48?style=for-the-badge&logo=squareenix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Just_Cause_3_(2015)-CLEARED-E11D48?style=for-the-badge&logo=squareenix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sleeping_Dogs_(2012)-CLEARED-B91C1C?style=for-the-badge&logo=squareenix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Watch_Dogs_(2014)-CLEARED-1E293B?style=for-the-badge&logo=ubisoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Watch_Dogs_2_(2016)-CLEARED-0284C7?style=for-the-badge&logo=ubisoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Watch_Dogs:_Legion_(2020)-CLEARED-059669?style=for-the-badge&logo=ubisoft&logoColor=white" />
+### 🧬 Open-World Vigilantes & Cyberpunk Action
+<p align="center">
+  <img src="./assets/games/prototype-1.svg" width="48" height="48" title="Prototype (2009)" alt="Prototype" />
+  <img src="./assets/games/prototype-2.svg" width="48" height="48" title="Prototype 2 (2012)" alt="Prototype 2" />
+  <img src="./assets/games/just-cause-1.svg" width="48" height="48" title="Just Cause (2006)" alt="Just Cause" />
+  <img src="./assets/games/just-cause-2.svg" width="48" height="48" title="Just Cause 2 (2010)" alt="Just Cause 2" />
+  <img src="./assets/games/just-cause-3.svg" width="48" height="48" title="Just Cause 3 (2015)" alt="Just Cause 3" />
+  <img src="./assets/games/sleeping-dogs.svg" width="48" height="48" title="Sleeping Dogs (2012)" alt="Sleeping Dogs" />
+  <img src="./assets/games/watch-dogs-1.svg" width="48" height="48" title="Watch Dogs (2014)" alt="Watch Dogs" />
+  <img src="./assets/games/watch-dogs-2.svg" width="48" height="48" title="Watch Dogs 2 (2016)" alt="Watch Dogs 2" />
+  <img src="./assets/games/watch-dogs-legion.svg" width="48" height="48" title="Watch Dogs: Legion (2020)" alt="Watch Dogs Legion" />
 </p>
 
-### 🔥 10. PS2 Golden Era Icons, Speed & Martial Arts
-<p align="left">
-  <img src="https://img.shields.io/badge/Mortal_Kombat:_Shaolin_Monks_(2005)-CLEARED-DC2626?style=for-the-badge&logo=playstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/God_Hand_(2006)-CLEARED-D97706?style=for-the-badge&logo=playstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/Resident_Evil_4_(2005)-CLEARED-991B1B?style=for-the-badge&logo=capcom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadow_of_the_Colossus_(2005)-CLEARED-475569?style=for-the-badge&logo=playstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bully_(2006)-CLEARED-2563EB?style=for-the-badge&logo=rockstargames&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total_Overdose_(2005)-CLEARED-F59E0B?style=for-the-badge&logo=playstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jet_Li:_Rise_to_Honor-CLEARED-B91C1C?style=for-the-badge&logo=playstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jackie_Chan_Adventures_(2004)-CLEARED-10B981?style=for-the-badge&logo=playstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/WWE_SmackDown!_Here_Comes_the_Pain-CLEARED-7C3AED?style=for-the-badge&logo=wwe&logoColor=white" />
-  <img src="https://img.shields.io/badge/NFS:_Underground_2_(2004)-CLEARED-059669?style=for-the-badge&logo=ea&logoColor=white" />
-  <img src="https://img.shields.io/badge/NFS:_Most_Wanted_(2005)-CLEARED-EA580C?style=for-the-badge&logo=ea&logoColor=white" />
-  <img src="https://img.shields.io/badge/The_Simpsons:_Hit_%26_Run_(2003)-CLEARED-FBBF24?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Madagascar:_Escape_2_Africa_(2008)-CLEARED-10B981?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Madagascar_3:_Europe's_Most_Wanted_(2012)-CLEARED-3B82F6?style=for-the-badge" />
+### 🔥 PS2 Golden Era Legends & Martial Arts
+<p align="center">
+  <img src="./assets/games/mk-shaolin.svg" width="48" height="48" title="Mortal Kombat: Shaolin Monks (2005)" alt="Shaolin Monks" />
+  <img src="./assets/games/god-hand.svg" width="48" height="48" title="God Hand (2006)" alt="God Hand" />
+  <img src="./assets/games/re4.svg" width="48" height="48" title="Resident Evil 4 (2005)" alt="Resident Evil 4" />
+  <img src="./assets/games/shadow-colossus.svg" width="48" height="48" title="Shadow of the Colossus (2005)" alt="Shadow of the Colossus" />
+  <img src="./assets/games/bully.svg" width="48" height="48" title="Bully (2006)" alt="Bully" />
+  <img src="./assets/games/total-overdose.svg" width="48" height="48" title="Total Overdose (2005)" alt="Total Overdose" />
+  <img src="./assets/games/jet-li.svg" width="48" height="48" title="Jet Li: Rise to Honor" alt="Jet Li Rise to Honor" />
+  <img src="./assets/games/jackie-chan.svg" width="48" height="48" title="Jackie Chan Adventures (2004)" alt="Jackie Chan Adventures" />
+  <img src="./assets/games/wwe-pain.svg" width="48" height="48" title="WWE SmackDown! Here Comes the Pain" alt="WWE Here Comes the Pain" />
+  <img src="./assets/games/nfs-ug2.svg" width="48" height="48" title="Need for Speed: Underground 2 (2004)" alt="NFS Underground 2" />
+  <img src="./assets/games/nfs-mw.svg" width="48" height="48" title="Need for Speed: Most Wanted (2005)" alt="NFS Most Wanted" />
+  <img src="./assets/games/simpsons.svg" width="48" height="48" title="The Simpsons: Hit & Run (2003)" alt="The Simpsons Hit & Run" />
+  <img src="./assets/games/madagascar-2.svg" width="48" height="48" title="Madagascar: Escape 2 Africa (2008)" alt="Madagascar 2" />
+  <img src="./assets/games/madagascar-3.svg" width="48" height="48" title="Madagascar 3: Europe's Most Wanted (2012)" alt="Madagascar 3" />
 </p>
+
+</div>
 
 ---
 
