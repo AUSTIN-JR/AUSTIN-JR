@@ -5,7 +5,7 @@
 
 <!-- ANIMATED TYPING SUBTITLE -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&width=900&height=50&lines=%E2%9A%A1+Cybersecurity+Student+%26+Digital+Defender;%F0%9F%8E%AE+67%2B+Legendary+Game+Campaigns+Conquered;%F0%9F%A7%A0+Autonomous+AI+Fleet%3A+Cursor+%E2%80%A2+Claude+Code+%E2%80%A2+Antigravity;%F0%9F%9A%80+Frontier+Intelligence%3A+ChatGPT+%E2%80%A2+Grok+%E2%80%A2+Gemini+%E2%80%A2+Lovable;%F0%9F%A6%87+Gotham+Atmosphere.+Headphones+On.+Zero+Distractions.;%F0%9F%8E%A7+Soundtrack%3A+Tupac+%E2%80%A2+Kendrick+%E2%80%A2+Kanye+%E2%80%A2+Michael+Jackson;%F0%9F%94%A5+%22It's+not+who+I+am+underneath%2C+it's+what+I+do+that+defines+me.%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&width=920&height=50&lines=%E2%9A%A1+Cybersecurity+Student+%26+Digital+Defender;%F0%9F%8E%AE+67%2B+Legendary+Game+Campaigns+Conquered;%F0%9F%8E%A7+Heavy+Rotation%3A+MJ+All+Albums+%E2%80%A2+GNX+%E2%80%A2+TPAB+%E2%80%A2+All+Eyez+On+Me+%E2%80%A2+GRODT;%F0%9F%A7%A0+Autonomous+AI+Fleet%3A+Cursor+%E2%80%A2+Claude+Code+%E2%80%A2+Antigravity;%F0%9F%9A%80+Frontier+Intelligence%3A+ChatGPT+%E2%80%A2+Grok+%E2%80%A2+Gemini+%E2%80%A2+Lovable;%F0%9F%A6%87+Gotham+Atmosphere.+Headphones+On.+Zero+Distractions.;%F0%9F%94%A5+%22It's+not+who+I+am+underneath%2C+it's+what+I+do+that+defines+me.%22" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -44,8 +44,8 @@
   Philosophy      = Vibe Coding (Idea → Multi-Agent Orchestration → Flawless Execution)
   Atmosphere      = Gotham rain, midnight neon, high-fidelity bass in headphones
   Core Arsenal    = Cursor, Claude Code, Google Antigravity, ChatGPT, Grok, Lovable
+  Music DNA       = Michael Jackson Complete Discography • GNX • TPAB • 2Pac • 50 Cent
   Gaming Codex    = 67+ Finished Titles (PS2 Classics to Modern Masterpieces)
-  Current Mission = Offensive/Defensive Security, AI Workflows & Next-Gen Web Craft
 
 [ACTIVE_DIRECTIVE]
   "It's only after we've lost everything that we're free to do anything."
@@ -288,40 +288,48 @@
 
 ---
 
-## 🎧 The Heavy Rotation • Nocturnal Soundscape
-
 <div align="center">
 
-*Music isn't background noise—it's fuel for late-night breakthroughs.*
+## 🎧 The Heavy Rotation • All-Time Favorite Albums
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" width="40" alt="Mic" /><br/>
-      <b>TUPAC SHAKUR</b><br/>
-      <sub><i>Raw intensity, uncompromising truth, iconic defiance.</i></sub><br/>
-      <code>♫ Ambitionz Az A Ridah</code>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png" width="40" alt="Crown" /><br/>
-      <b>KENDRICK LAMAR</b><br/>
-      <sub><i>Architectural storytelling, intricate flows, supreme vision.</i></sub><br/>
-      <code>♫ Alright • DNA.</code>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="40" alt="Fire" /><br/>
-      <b>KANYE WEST</b><br/>
-      <sub><i>Boundary-shattering production & fearless innovation.</i></sub><br/>
-      <code>♫ Stronger • Heartless</code>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="40" alt="Star" /><br/>
-      <b>MICHAEL JACKSON</b><br/>
-      <sub><i>The blueprint of perfection, rhythm, and timeless groove.</i></sub><br/>
-      <code>♫ Smooth Criminal • Billie Jean</code>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/HEAVY_ROTATION-VINYL_&_LOSSLESS-8B5CF6?style=for-the-badge&logo=applemusic&logoColor=white" alt="Lossless" />
+  <img src="https://img.shields.io/badge/CURATION-TIMELESS_MASTERPIECES-EC4899?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+</p>
+
+> *"Music isn't background noise—it's fuel for late-night breakthroughs."*
+
+<br/>
+
+### 🧤 Michael Jackson: The Complete Studio Discography
+<p align="center">
+  <img src="./assets/albums/mj-got-to-be-there.png" width="48" height="48" title="Got to Be There (1972) - Michael Jackson" alt="Got to Be There" />
+  <img src="./assets/albums/mj-ben.png" width="48" height="48" title="Ben (1972) - Michael Jackson" alt="Ben" />
+  <img src="./assets/albums/mj-music-and-me.png" width="48" height="48" title="Music & Me (1973) - Michael Jackson" alt="Music & Me" />
+  <img src="./assets/albums/mj-forever-michael.png" width="48" height="48" title="Forever, Michael (1975) - Michael Jackson" alt="Forever, Michael" />
+  <img src="./assets/albums/mj-off-the-wall.png" width="48" height="48" title="Off the Wall (1979) - Michael Jackson" alt="Off the Wall" />
+  <img src="./assets/albums/mj-thriller.png" width="48" height="48" title="Thriller (1982) - Michael Jackson" alt="Thriller" />
+  <img src="./assets/albums/mj-bad.png" width="48" height="48" title="Bad (1987) - Michael Jackson" alt="Bad" />
+  <img src="./assets/albums/mj-dangerous.png" width="48" height="48" title="Dangerous (1991) - Michael Jackson" alt="Dangerous" />
+  <img src="./assets/albums/mj-history.png" width="48" height="48" title="HIStory: Past, Present and Future, Book I (1995) - Michael Jackson" alt="HIStory" />
+  <img src="./assets/albums/mj-invincible.png" width="48" height="48" title="Invincible (2001) - Michael Jackson" alt="Invincible" />
+  <img src="./assets/albums/mj-xscape.png" width="48" height="48" title="Xscape (2014) - Michael Jackson" alt="Xscape" />
+</p>
+
+### 👑 Kendrick Lamar: Cinematic Lyricism
+<p align="center">
+  <img src="./assets/albums/kendrick-gnx.png" width="48" height="48" title="GNX (2024) - Kendrick Lamar" alt="GNX" />
+  <img src="./assets/albums/kendrick-tpab.png" width="48" height="48" title="To Pimp a Butterfly (2015) - Kendrick Lamar" alt="To Pimp a Butterfly" />
+  <img src="./assets/albums/kendrick-mrmorale.png" width="48" height="48" title="Mr. Morale & the Big Steppers (2022) - Kendrick Lamar" alt="Mr. Morale & the Big Steppers" />
+</p>
+
+### 🎙️ Hip-Hop, West Coast & Pop Magna Cartas
+<p align="center">
+  <img src="./assets/albums/2pac-all-eyez-on-me.png" width="48" height="48" title="All Eyez on Me (1996) - 2Pac" alt="All Eyez on Me" />
+  <img src="./assets/albums/50cent-get-rich.png" width="48" height="48" title="Get Rich or Die Tryin' (2003) - 50 Cent" alt="Get Rich or Die Tryin'" />
+  <img src="./assets/albums/nwa-straight-outta-compton.png" width="48" height="48" title="Straight Outta Compton (1988) - N.W.A" alt="Straight Outta Compton" />
+  <img src="./assets/albums/jt-justified.png" width="48" height="48" title="Justified (2002) - Justin Timberlake" alt="Justified" />
+</p>
 
 </div>
 
@@ -373,12 +381,13 @@ AI SYNERGY PROTOCOL:
 ├── Generation & Synthesis: ChatGPT, Grok, Gemini, Lovable
 └── Creative Visuals: Canva Magic Studio & Midjourney
 
-GAMING CODEX:
-├── Total Finished Campaigns: 67 Titles
-├── Legendary Runs: God of War Greek & Norse Pantheons (100%),
-│   Assassin's Creed from Altaïr to Basim (100%),
-│   Nathan Drake's Uncharted Odyssey,
-│   Batman Arkham Hexalogy.
+VINYL ARCHIVES // HEAVY ROTATION:
+├── Michael Jackson (The King of Pop • Complete Studio Discography)
+├── Kendrick Lamar (GNX, To Pimp a Butterfly, Mr. Morale)
+├── 2Pac (All Eyez on Me)
+├── 50 Cent (Get Rich or Die Tryin')
+├── N.W.A (Straight Outta Compton)
+└── Justin Timberlake (Justified)
 
 PHILOSOPHY OF THE NIGHT:
 "It is not who I am underneath, but what I do that defines me."
