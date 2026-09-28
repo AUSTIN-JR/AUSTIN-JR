@@ -171,117 +171,117 @@
 
 ### 🦇 Batman & Arkhamverse
 <p align="center">
-  <img src="./assets/games/batman-asylum.svg" width="48" height="48" title="Batman: Arkham Asylum (2009)" alt="Arkham Asylum" />
-  <img src="./assets/games/batman-city.svg" width="48" height="48" title="Batman: Arkham City (2011)" alt="Arkham City" />
-  <img src="./assets/games/batman-origins.svg" width="48" height="48" title="Batman: Arkham Origins (2013)" alt="Arkham Origins" />
-  <img src="./assets/games/batman-knight.svg" width="48" height="48" title="Batman: Arkham Knight (2015)" alt="Arkham Knight" />
-  <img src="./assets/games/batman-vr.svg" width="48" height="48" title="Batman: Arkham VR (2016)" alt="Arkham VR" />
-  <img src="./assets/games/suicide-squad.svg" width="48" height="48" title="Suicide Squad: Kill the Justice League (2024)" alt="Suicide Squad" />
+  <img src="./assets/games/batman-asylum.png" width="48" height="48" title="Batman: Arkham Asylum (2009)" alt="Arkham Asylum" />
+  <img src="./assets/games/batman-city.png" width="48" height="48" title="Batman: Arkham City (2011)" alt="Arkham City" />
+  <img src="./assets/games/batman-origins.png" width="48" height="48" title="Batman: Arkham Origins (2013)" alt="Arkham Origins" />
+  <img src="./assets/games/batman-knight.png" width="48" height="48" title="Batman: Arkham Knight (2015)" alt="Arkham Knight" />
+  <img src="./assets/games/batman-vr.png" width="48" height="48" title="Batman: Arkham VR (2016)" alt="Arkham VR" />
+  <img src="./assets/games/suicide-squad.png" width="48" height="48" title="Suicide Squad: Kill the Justice League (2024)" alt="Suicide Squad" />
 </p>
 
 ### ⚔️ God of War: Full Greek & Norse Sagas (9/9 Finished)
 <p align="center">
-  <img src="./assets/games/gow-1.svg" width="48" height="48" title="God of War (2005)" alt="God of War I" />
-  <img src="./assets/games/gow-2.svg" width="48" height="48" title="God of War II (2007)" alt="God of War II" />
-  <img src="./assets/games/gow-betrayal.svg" width="48" height="48" title="God of War: Betrayal (2007)" alt="God of War Betrayal" />
-  <img src="./assets/games/gow-chains.svg" width="48" height="48" title="God of War: Chains of Olympus (2008)" alt="Chains of Olympus" />
-  <img src="./assets/games/gow-3.svg" width="48" height="48" title="God of War III (2010)" alt="God of War III" />
-  <img src="./assets/games/gow-ghost.svg" width="48" height="48" title="God of War: Ghost of Sparta (2010)" alt="Ghost of Sparta" />
-  <img src="./assets/games/gow-ascension.svg" width="48" height="48" title="God of War: Ascension (2013)" alt="Ascension" />
-  <img src="./assets/games/gow-2018.svg" width="48" height="48" title="God of War (2018)" alt="God of War 2018" />
-  <img src="./assets/games/gow-ragnarok.svg" width="48" height="48" title="God of War Ragnarök (2022)" alt="God of War Ragnarok" />
+  <img src="./assets/games/gow-1.png" width="48" height="48" title="God of War (2005)" alt="God of War I" />
+  <img src="./assets/games/gow-2.png" width="48" height="48" title="God of War II (2007)" alt="God of War II" />
+  <img src="./assets/games/gow-betrayal.png" width="48" height="48" title="God of War: Betrayal (2007)" alt="God of War Betrayal" />
+  <img src="./assets/games/gow-chains.png" width="48" height="48" title="God of War: Chains of Olympus (2008)" alt="Chains of Olympus" />
+  <img src="./assets/games/gow-3.png" width="48" height="48" title="God of War III (2010)" alt="God of War III" />
+  <img src="./assets/games/gow-ghost.png" width="48" height="48" title="God of War: Ghost of Sparta (2010)" alt="Ghost of Sparta" />
+  <img src="./assets/games/gow-ascension.png" width="48" height="48" title="God of War: Ascension (2013)" alt="Ascension" />
+  <img src="./assets/games/gow-2018.png" width="48" height="48" title="God of War (2018)" alt="God of War 2018" />
+  <img src="./assets/games/gow-ragnarok.png" width="48" height="48" title="God of War Ragnarök (2022)" alt="God of War Ragnarok" />
 </p>
 
 ### 🗡️ Assassin's Creed Chronicles (13 Sagas)
 <p align="center">
-  <img src="./assets/games/ac-1.svg" width="48" height="48" title="Assassin's Creed (2007)" alt="Assassin's Creed" />
-  <img src="./assets/games/ac-2.svg" width="48" height="48" title="Assassin's Creed II (2009)" alt="Assassin's Creed II" />
-  <img src="./assets/games/ac-brotherhood.svg" width="48" height="48" title="Assassin's Creed Brotherhood (2010)" alt="AC Brotherhood" />
-  <img src="./assets/games/ac-revelations.svg" width="48" height="48" title="Assassin's Creed Revelations (2011)" alt="AC Revelations" />
-  <img src="./assets/games/ac-3.svg" width="48" height="48" title="Assassin's Creed III (2012)" alt="AC III" />
-  <img src="./assets/games/ac-4.svg" width="48" height="48" title="Assassin's Creed IV: Black Flag (2013)" alt="Black Flag" />
-  <img src="./assets/games/ac-rogue.svg" width="48" height="48" title="Assassin's Creed Rogue (2014)" alt="AC Rogue" />
-  <img src="./assets/games/ac-unity.svg" width="48" height="48" title="Assassin's Creed Unity (2014)" alt="AC Unity" />
-  <img src="./assets/games/ac-syndicate.svg" width="48" height="48" title="Assassin's Creed Syndicate (2015)" alt="AC Syndicate" />
-  <img src="./assets/games/ac-origins.svg" width="48" height="48" title="Assassin's Creed Origins (2017)" alt="AC Origins" />
-  <img src="./assets/games/ac-odyssey.svg" width="48" height="48" title="Assassin's Creed Odyssey (2018)" alt="AC Odyssey" />
-  <img src="./assets/games/ac-valhalla.svg" width="48" height="48" title="Assassin's Creed Valhalla (2020)" alt="AC Valhalla" />
-  <img src="./assets/games/ac-mirage.svg" width="48" height="48" title="Assassin's Creed Mirage (2023)" alt="AC Mirage" />
+  <img src="./assets/games/ac-1.png" width="48" height="48" title="Assassin's Creed (2007)" alt="Assassin's Creed" />
+  <img src="./assets/games/ac-2.png" width="48" height="48" title="Assassin's Creed II (2009)" alt="Assassin's Creed II" />
+  <img src="./assets/games/ac-brotherhood.png" width="48" height="48" title="Assassin's Creed Brotherhood (2010)" alt="AC Brotherhood" />
+  <img src="./assets/games/ac-revelations.png" width="48" height="48" title="Assassin's Creed Revelations (2011)" alt="AC Revelations" />
+  <img src="./assets/games/ac-3.png" width="48" height="48" title="Assassin's Creed III (2012)" alt="AC III" />
+  <img src="./assets/games/ac-4.png" width="48" height="48" title="Assassin's Creed IV: Black Flag (2013)" alt="Black Flag" />
+  <img src="./assets/games/ac-rogue.png" width="48" height="48" title="Assassin's Creed Rogue (2014)" alt="AC Rogue" />
+  <img src="./assets/games/ac-unity.png" width="48" height="48" title="Assassin's Creed Unity (2014)" alt="AC Unity" />
+  <img src="./assets/games/ac-syndicate.png" width="48" height="48" title="Assassin's Creed Syndicate (2015)" alt="AC Syndicate" />
+  <img src="./assets/games/ac-origins.png" width="48" height="48" title="Assassin's Creed Origins (2017)" alt="AC Origins" />
+  <img src="./assets/games/ac-odyssey.png" width="48" height="48" title="Assassin's Creed Odyssey (2018)" alt="AC Odyssey" />
+  <img src="./assets/games/ac-valhalla.png" width="48" height="48" title="Assassin's Creed Valhalla (2020)" alt="AC Valhalla" />
+  <img src="./assets/games/ac-mirage.png" width="48" height="48" title="Assassin's Creed Mirage (2023)" alt="AC Mirage" />
 </p>
 
 ### 🏙️ Grand Theft Auto: 3D Universe
 <p align="center">
-  <img src="./assets/games/gta-3.svg" width="48" height="48" title="Grand Theft Auto III (2001)" alt="GTA III" />
-  <img src="./assets/games/gta-vc.svg" width="48" height="48" title="Grand Theft Auto: Vice City (2002)" alt="GTA Vice City" />
-  <img src="./assets/games/gta-sa.svg" width="48" height="48" title="Grand Theft Auto: San Andreas (2004)" alt="GTA San Andreas" />
-  <img src="./assets/games/gta-lcs.svg" width="48" height="48" title="Grand Theft Auto: Liberty City Stories (2005)" alt="GTA Liberty City Stories" />
-  <img src="./assets/games/gta-vcs.svg" width="48" height="48" title="Grand Theft Auto: Vice City Stories (2006)" alt="GTA Vice City Stories" />
+  <img src="./assets/games/gta-3.png" width="48" height="48" title="Grand Theft Auto III (2001)" alt="GTA III" />
+  <img src="./assets/games/gta-vc.png" width="48" height="48" title="Grand Theft Auto: Vice City (2002)" alt="GTA Vice City" />
+  <img src="./assets/games/gta-sa.png" width="48" height="48" title="Grand Theft Auto: San Andreas (2004)" alt="GTA San Andreas" />
+  <img src="./assets/games/gta-lcs.png" width="48" height="48" title="Grand Theft Auto: Liberty City Stories (2005)" alt="GTA Liberty City Stories" />
+  <img src="./assets/games/gta-vcs.png" width="48" height="48" title="Grand Theft Auto: Vice City Stories (2006)" alt="GTA Vice City Stories" />
 </p>
 
 ### 🧭 Uncharted: Nathan Drake & Chloe Frazer
 <p align="center">
-  <img src="./assets/games/uncharted-1.svg" width="48" height="48" title="Uncharted: Drake's Fortune (2007)" alt="Drake's Fortune" />
-  <img src="./assets/games/uncharted-2.svg" width="48" height="48" title="Uncharted 2: Among Thieves (2009)" alt="Among Thieves" />
-  <img src="./assets/games/uncharted-3.svg" width="48" height="48" title="Uncharted 3: Drake's Deception (2011)" alt="Drake's Deception" />
-  <img src="./assets/games/uncharted-4.svg" width="48" height="48" title="Uncharted 4: A Thief's End (2016)" alt="A Thief's End" />
-  <img src="./assets/games/uncharted-lost-legacy.svg" width="48" height="48" title="Uncharted: The Lost Legacy (2017)" alt="The Lost Legacy" />
+  <img src="./assets/games/uncharted-1.png" width="48" height="48" title="Uncharted: Drake's Fortune (2007)" alt="Drake's Fortune" />
+  <img src="./assets/games/uncharted-2.png" width="48" height="48" title="Uncharted 2: Among Thieves (2009)" alt="Among Thieves" />
+  <img src="./assets/games/uncharted-3.png" width="48" height="48" title="Uncharted 3: Drake's Deception (2011)" alt="Drake's Deception" />
+  <img src="./assets/games/uncharted-4.png" width="48" height="48" title="Uncharted 4: A Thief's End (2016)" alt="A Thief's End" />
+  <img src="./assets/games/uncharted-lost-legacy.png" width="48" height="48" title="Uncharted: The Lost Legacy (2017)" alt="The Lost Legacy" />
 </p>
 
 ### 🕸️ The Spider-Man Multiverse
 <p align="center">
-  <img src="./assets/games/spiderman-2000.svg" width="48" height="48" title="Spider-Man (2000)" alt="Spider-Man 2000" />
-  <img src="./assets/games/spiderman-2.svg" width="48" height="48" title="Spider-Man 2 (2004)" alt="Spider-Man 2" />
-  <img src="./assets/games/spiderman-web-of-shadows.svg" width="48" height="48" title="Spider-Man: Web of Shadows (2008)" alt="Web of Shadows" />
-  <img src="./assets/games/spiderman-miles-morales.svg" width="48" height="48" title="Marvel's Spider-Man: Miles Morales" alt="Miles Morales" />
-  <img src="./assets/games/spiderman-2-ps5.svg" width="48" height="48" title="Marvel's Spider-Man 2" alt="Spider-Man 2 PS5" />
+  <img src="./assets/games/spiderman-2000.png" width="48" height="48" title="Spider-Man (2000)" alt="Spider-Man 2000" />
+  <img src="./assets/games/spiderman-2.png" width="48" height="48" title="Spider-Man 2 (2004)" alt="Spider-Man 2" />
+  <img src="./assets/games/spiderman-web-of-shadows.png" width="48" height="48" title="Spider-Man: Web of Shadows (2008)" alt="Web of Shadows" />
+  <img src="./assets/games/spiderman-miles-morales.png" width="48" height="48" title="Marvel's Spider-Man: Miles Morales (2020)" alt="Miles Morales" />
+  <img src="./assets/games/spiderman-2-ps5.png" width="48" height="48" title="Marvel's Spider-Man 2 (2023)" alt="Spider-Man 2 PS5" />
 </p>
 
 ### ⏳ Prince of Persia Saga
 <p align="center">
-  <img src="./assets/games/pop-sands.svg" width="48" height="48" title="Prince of Persia: The Sands of Time (2003)" alt="Sands of Time" />
-  <img src="./assets/games/pop-warrior.svg" width="48" height="48" title="Prince of Persia: Warrior Within (2004)" alt="Warrior Within" />
-  <img src="./assets/games/pop-two-thrones.svg" width="48" height="48" title="Prince of Persia: The Two Thrones (2005)" alt="The Two Thrones" />
-  <img src="./assets/games/pop-2008.svg" width="48" height="48" title="Prince of Persia (2008)" alt="PoP 2008" />
-  <img src="./assets/games/pop-forgotten.svg" width="48" height="48" title="Prince of Persia: The Forgotten Sands (2010)" alt="Forgotten Sands" />
-  <img src="./assets/games/pop-lost-crown.svg" width="48" height="48" title="Prince of Persia: The Lost Crown (2024)" alt="The Lost Crown" />
+  <img src="./assets/games/pop-sands.png" width="48" height="48" title="Prince of Persia: The Sands of Time (2003)" alt="Sands of Time" />
+  <img src="./assets/games/pop-warrior.png" width="48" height="48" title="Prince of Persia: Warrior Within (2004)" alt="Warrior Within" />
+  <img src="./assets/games/pop-two-thrones.png" width="48" height="48" title="Prince of Persia: The Two Thrones (2005)" alt="The Two Thrones" />
+  <img src="./assets/games/pop-2008.png" width="48" height="48" title="Prince of Persia (2008)" alt="PoP 2008" />
+  <img src="./assets/games/pop-forgotten.png" width="48" height="48" title="Prince of Persia: The Forgotten Sands (2010)" alt="Forgotten Sands" />
+  <img src="./assets/games/pop-lost-crown.png" width="48" height="48" title="Prince of Persia: The Lost Crown (2024)" alt="The Lost Crown" />
 </p>
 
 ### 🕶️ Hitman: Agent 47 World of Assassination
 <p align="center">
-  <img src="./assets/games/hitman-blood-money.svg" width="48" height="48" title="Hitman: Blood Money (2006)" alt="Hitman Blood Money" />
-  <img src="./assets/games/hitman-absolution.svg" width="48" height="48" title="Hitman: Absolution (2012)" alt="Hitman Absolution" />
-  <img src="./assets/games/hitman-woa.svg" width="48" height="48" title="Hitman: World of Assassination (Hitman Trilogy)" alt="Hitman WoA" />
+  <img src="./assets/games/hitman-blood-money.png" width="48" height="48" title="Hitman: Blood Money (2006)" alt="Hitman Blood Money" />
+  <img src="./assets/games/hitman-absolution.png" width="48" height="48" title="Hitman: Absolution (2012)" alt="Hitman Absolution" />
+  <img src="./assets/games/hitman-woa.png" width="48" height="48" title="Hitman: World of Assassination" alt="Hitman WoA" />
 </p>
 
-### 🧬 Open-World Vigilantes & Cyberpunk Action
+### 🧬 Open-World Vigilantes & Action
 <p align="center">
-  <img src="./assets/games/prototype-1.svg" width="48" height="48" title="Prototype (2009)" alt="Prototype" />
-  <img src="./assets/games/prototype-2.svg" width="48" height="48" title="Prototype 2 (2012)" alt="Prototype 2" />
-  <img src="./assets/games/just-cause-1.svg" width="48" height="48" title="Just Cause (2006)" alt="Just Cause" />
-  <img src="./assets/games/just-cause-2.svg" width="48" height="48" title="Just Cause 2 (2010)" alt="Just Cause 2" />
-  <img src="./assets/games/just-cause-3.svg" width="48" height="48" title="Just Cause 3 (2015)" alt="Just Cause 3" />
-  <img src="./assets/games/sleeping-dogs.svg" width="48" height="48" title="Sleeping Dogs (2012)" alt="Sleeping Dogs" />
-  <img src="./assets/games/watch-dogs-1.svg" width="48" height="48" title="Watch Dogs (2014)" alt="Watch Dogs" />
-  <img src="./assets/games/watch-dogs-2.svg" width="48" height="48" title="Watch Dogs 2 (2016)" alt="Watch Dogs 2" />
-  <img src="./assets/games/watch-dogs-legion.svg" width="48" height="48" title="Watch Dogs: Legion (2020)" alt="Watch Dogs Legion" />
+  <img src="./assets/games/prototype-1.png" width="48" height="48" title="Prototype (2009)" alt="Prototype" />
+  <img src="./assets/games/prototype-2.png" width="48" height="48" title="Prototype 2 (2012)" alt="Prototype 2" />
+  <img src="./assets/games/just-cause-1.png" width="48" height="48" title="Just Cause (2006)" alt="Just Cause" />
+  <img src="./assets/games/just-cause-2.png" width="48" height="48" title="Just Cause 2 (2010)" alt="Just Cause 2" />
+  <img src="./assets/games/just-cause-3.png" width="48" height="48" title="Just Cause 3 (2015)" alt="Just Cause 3" />
+  <img src="./assets/games/sleeping-dogs.png" width="48" height="48" title="Sleeping Dogs (2012)" alt="Sleeping Dogs" />
+  <img src="./assets/games/watch-dogs-1.png" width="48" height="48" title="Watch Dogs (2014)" alt="Watch Dogs" />
+  <img src="./assets/games/watch-dogs-2.png" width="48" height="48" title="Watch Dogs 2 (2016)" alt="Watch Dogs 2" />
+  <img src="./assets/games/watch-dogs-legion.png" width="48" height="48" title="Watch Dogs: Legion (2020)" alt="Watch Dogs Legion" />
 </p>
 
 ### 🔥 PS2 Golden Era Legends & Martial Arts
 <p align="center">
-  <img src="./assets/games/mk-shaolin.svg" width="48" height="48" title="Mortal Kombat: Shaolin Monks (2005)" alt="Shaolin Monks" />
-  <img src="./assets/games/god-hand.svg" width="48" height="48" title="God Hand (2006)" alt="God Hand" />
-  <img src="./assets/games/re4.svg" width="48" height="48" title="Resident Evil 4 (2005)" alt="Resident Evil 4" />
-  <img src="./assets/games/shadow-colossus.svg" width="48" height="48" title="Shadow of the Colossus (2005)" alt="Shadow of the Colossus" />
-  <img src="./assets/games/bully.svg" width="48" height="48" title="Bully (2006)" alt="Bully" />
-  <img src="./assets/games/total-overdose.svg" width="48" height="48" title="Total Overdose (2005)" alt="Total Overdose" />
-  <img src="./assets/games/jet-li.svg" width="48" height="48" title="Jet Li: Rise to Honor" alt="Jet Li Rise to Honor" />
-  <img src="./assets/games/jackie-chan.svg" width="48" height="48" title="Jackie Chan Adventures (2004)" alt="Jackie Chan Adventures" />
-  <img src="./assets/games/wwe-pain.svg" width="48" height="48" title="WWE SmackDown! Here Comes the Pain" alt="WWE Here Comes the Pain" />
-  <img src="./assets/games/nfs-ug2.svg" width="48" height="48" title="Need for Speed: Underground 2 (2004)" alt="NFS Underground 2" />
-  <img src="./assets/games/nfs-mw.svg" width="48" height="48" title="Need for Speed: Most Wanted (2005)" alt="NFS Most Wanted" />
-  <img src="./assets/games/simpsons.svg" width="48" height="48" title="The Simpsons: Hit & Run (2003)" alt="The Simpsons Hit & Run" />
-  <img src="./assets/games/madagascar-2.svg" width="48" height="48" title="Madagascar: Escape 2 Africa (2008)" alt="Madagascar 2" />
-  <img src="./assets/games/madagascar-3.svg" width="48" height="48" title="Madagascar 3: Europe's Most Wanted (2012)" alt="Madagascar 3" />
+  <img src="./assets/games/mk-shaolin.png" width="48" height="48" title="Mortal Kombat: Shaolin Monks (2005)" alt="Shaolin Monks" />
+  <img src="./assets/games/god-hand.png" width="48" height="48" title="God Hand (2006)" alt="God Hand" />
+  <img src="./assets/games/re4.png" width="48" height="48" title="Resident Evil 4 (2005)" alt="Resident Evil 4" />
+  <img src="./assets/games/shadow-colossus.png" width="48" height="48" title="Shadow of the Colossus (2005)" alt="Shadow of the Colossus" />
+  <img src="./assets/games/bully.png" width="48" height="48" title="Bully (2006)" alt="Bully" />
+  <img src="./assets/games/total-overdose.png" width="48" height="48" title="Total Overdose (2005)" alt="Total Overdose" />
+  <img src="./assets/games/jet-li.png" width="48" height="48" title="Jet Li: Rise to Honor (2004)" alt="Jet Li Rise to Honor" />
+  <img src="./assets/games/jackie-chan.png" width="48" height="48" title="Jackie Chan Adventures (2004)" alt="Jackie Chan Adventures" />
+  <img src="./assets/games/wwe-pain.png" width="48" height="48" title="WWE SmackDown! Here Comes the Pain (2003)" alt="WWE Here Comes the Pain" />
+  <img src="./assets/games/nfs-ug2.png" width="48" height="48" title="Need for Speed: Underground 2 (2004)" alt="NFS Underground 2" />
+  <img src="./assets/games/nfs-mw.png" width="48" height="48" title="Need for Speed: Most Wanted (2005)" alt="NFS Most Wanted" />
+  <img src="./assets/games/simpsons.png" width="48" height="48" title="The Simpsons: Hit & Run (2003)" alt="The Simpsons Hit & Run" />
+  <img src="./assets/games/madagascar-2.png" width="48" height="48" title="Madagascar: Escape 2 Africa (2008)" alt="Madagascar 2" />
+  <img src="./assets/games/madagascar-3.png" width="48" height="48" title="Madagascar 3: Europe's Most Wanted (2012)" alt="Madagascar 3" />
 </p>
 
 </div>
