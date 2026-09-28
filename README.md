@@ -5,7 +5,7 @@
 
 <!-- ANIMATED TYPING SUBTITLE -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&width=920&height=50&lines=%E2%9A%A1+Cybersecurity+Student+%26+Digital+Defender;%F0%9F%8E%AE+67%2B+Legendary+Game+Campaigns+Conquered;%F0%9F%8E%A7+Heavy+Rotation%3A+MJ+All+Albums+%E2%80%A2+GNX+%E2%80%A2+TPAB+%E2%80%A2+All+Eyez+On+Me+%E2%80%A2+GRODT;%F0%9F%A7%A0+Autonomous+AI+Fleet%3A+Cursor+%E2%80%A2+Claude+Code+%E2%80%A2+Antigravity;%F0%9F%9A%80+Frontier+Intelligence%3A+ChatGPT+%E2%80%A2+Grok+%E2%80%A2+Gemini+%E2%80%A2+Lovable;%F0%9F%A6%87+Gotham+Atmosphere.+Headphones+On.+Zero+Distractions.;%F0%9F%94%A5+%22It's+not+who+I+am+underneath%2C+it's+what+I+do+that+defines+me.%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&width=920&height=50&lines=%E2%9A%A1+Cybersecurity+Student+%26+Digital+Defender;%F0%9F%8E%AE+67%2B+Legendary+Game+Campaigns+Conquered;%F0%9F%8E%A7+Heavy+Rotation%3A+MJ+All+Albums+%E2%80%A2+Graduation+%E2%80%A2+GNX+%E2%80%A2+TPAB+%E2%80%A2+GRODT;%F0%9F%A7%A0+Autonomous+AI+Fleet%3A+Cursor+%E2%80%A2+Claude+Code+%E2%80%A2+Antigravity;%F0%9F%9A%80+Frontier+Intelligence%3A+ChatGPT+%E2%80%A2+Grok+%E2%80%A2+Gemini+%E2%80%A2+Lovable;%F0%9F%A6%87+Gotham+Atmosphere.+Headphones+On.+Zero+Distractions.;%F0%9F%94%A5+%22It's+not+who+I+am+underneath%2C+it's+what+I+do+that+defines+me.%22" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -44,7 +44,7 @@
   Philosophy      = Vibe Coding (Idea → Multi-Agent Orchestration → Flawless Execution)
   Atmosphere      = Gotham rain, midnight neon, high-fidelity bass in headphones
   Core Arsenal    = Cursor, Claude Code, Google Antigravity, ChatGPT, Grok, Lovable
-  Music DNA       = Michael Jackson Complete Discography • GNX • TPAB • 2Pac • 50 Cent
+  Music DNA       = Michael Jackson Complete Discography • Graduation • GNX • TPAB • 2Pac • 50 Cent
   Gaming Codex    = 67+ Finished Titles (PS2 Classics to Modern Masterpieces)
 
 [ACTIVE_DIRECTIVE]
@@ -325,6 +325,7 @@
 
 ### 🎙️ Hip-Hop, West Coast & Pop Magna Cartas
 <p align="center">
+  <img src="./assets/albums/kanye-graduation.png" width="48" height="48" title="Graduation (2007) - Kanye West" alt="Graduation" />
   <img src="./assets/albums/2pac-all-eyez-on-me.png" width="48" height="48" title="All Eyez on Me (1996) - 2Pac" alt="All Eyez on Me" />
   <img src="./assets/albums/50cent-get-rich.png" width="48" height="48" title="Get Rich or Die Tryin' (2003) - 50 Cent" alt="Get Rich or Die Tryin'" />
   <img src="./assets/albums/nwa-straight-outta-compton.png" width="48" height="48" title="Straight Outta Compton (1988) - N.W.A" alt="Straight Outta Compton" />
@@ -383,6 +384,7 @@ AI SYNERGY PROTOCOL:
 
 VINYL ARCHIVES // HEAVY ROTATION:
 ├── Michael Jackson (The King of Pop • Complete Studio Discography)
+├── Kanye West (Graduation)
 ├── Kendrick Lamar (GNX, To Pimp a Butterfly, Mr. Morale)
 ├── 2Pac (All Eyez on Me)
 ├── 50 Cent (Get Rich or Die Tryin')
