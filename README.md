@@ -5,7 +5,7 @@
 
 <!-- ANIMATED TYPING SUBTITLE -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&width=900&height=50&lines=%E2%9A%A1+Cybersecurity+Student+%26+Digital+Defender;%F0%9F%A7%A0+Autonomous+AI+Fleet%3A+Cursor+%E2%80%A2+Claude+Code+%E2%80%A2+Antigravity;%F0%9F%9A%80+Frontier+Intelligence%3A+ChatGPT+%E2%80%A2+Grok+%E2%80%A2+Gemini+%E2%80%A2+Lovable;%F0%9F%A6%87+Gotham+Atmosphere.+Headphones+On.+Zero+Distractions.;%F0%9F%8E%A7+Soundtrack%3A+Tupac+%E2%80%A2+Kendrick+%E2%80%A2+Kanye+%E2%80%A2+Michael+Jackson;%F0%9F%94%A5+%22It's+not+who+I+am+underneath%2C+it's+what+I+do+that+defines+me.%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&width=900&height=50&lines=%E2%9A%A1+Cybersecurity+Student+%26+Digital+Defender;%F0%9F%8E%AE+67%2B+Legendary+Game+Campaigns+Conquered;%F0%9F%A7%A0+Autonomous+AI+Fleet%3A+Cursor+%E2%80%A2+Claude+Code+%E2%80%A2+Antigravity;%F0%9F%9A%80+Frontier+Intelligence%3A+ChatGPT+%E2%80%A2+Grok+%E2%80%A2+Gemini+%E2%80%A2+Lovable;%F0%9F%A6%87+Gotham+Atmosphere.+Headphones+On.+Zero+Distractions.;%F0%9F%8E%A7+Soundtrack%3A+Tupac+%E2%80%A2+Kendrick+%E2%80%A2+Kanye+%E2%80%A2+Michael+Jackson;%F0%9F%94%A5+%22It's+not+who+I+am+underneath%2C+it's+what+I+do+that+defines+me.%22" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-7C3AED?style=for-the-badge&logo=shield&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/LOCATION-GOTHAM_AFTER_HOURS-1F1D36?style=for-the-badge&logo=batman&logoColor=A78BFA" alt="Location" />
-  <img src="https://img.shields.io/badge/METHOD-AI_AUGMENTED_VIBE_CODER-EC4899?style=for-the-badge&logo=sparkles&logoColor=white" alt="Method" />
+  <img src="https://img.shields.io/badge/GAMING-67+_CAMPAIGNS_CLEARED-E11D48?style=for-the-badge&logo=playstation&logoColor=white" alt="Gaming" />
   <img src="https://komarev.com/ghpvc/?username=AUSTIN-JR&label=RADAR+VIEWS&color=8b5cf6&style=for-the-badge" alt="Views" />
 </p>
 
@@ -44,6 +44,7 @@
   Philosophy      = Vibe Coding (Idea → Multi-Agent Orchestration → Flawless Execution)
   Atmosphere      = Gotham rain, midnight neon, high-fidelity bass in headphones
   Core Arsenal    = Cursor, Claude Code, Google Antigravity, ChatGPT, Grok, Lovable
+  Gaming Codex    = 67+ Finished Titles (PS2 Classics to Modern Masterpieces)
   Current Mission = Offensive/Defensive Security, AI Workflows & Next-Gen Web Craft
 
 [ACTIVE_DIRECTIVE]
@@ -154,6 +155,139 @@
 
 ---
 
+<div align="center">
+
+## 🎮 The Completed Campaign Vault • 67 Games Conquered
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TOTAL_GAMES_CONQUERED-67_TITLES-E11D48?style=for-the-badge&logo=gamepad&logoColor=white" alt="Total Games" />
+  <img src="https://img.shields.io/badge/COMPLETION_RATE-100%25_STORY_CLEARED-10B981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Completion" />
+  <img src="https://img.shields.io/badge/LEGACY-PS2_ERA_TO_CURRENT_GEN-7C3AED?style=for-the-badge&logo=playstation&logoColor=white" alt="Legacy" />
+</p>
+
+> *"Give me a story worth following, characters worth remembering, and an atmosphere worth losing sleep over. These are the worlds I entered, survived, and finished."*
+
+</div>
+
+<br/>
+
+### 🦇 1. Batman: The Arkhamverse & DC
+<p align="left">
+  <img src="https://img.shields.io/badge/Batman:_Arkham_Asylum_(2009)-CLEARED-000000?style=for-the-badge&logo=batman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Batman:_Arkham_City_(2011)-CLEARED-000000?style=for-the-badge&logo=batman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Batman:_Arkham_Origins_(2013)-CLEARED-000000?style=for-the-badge&logo=batman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Batman:_Arkham_Knight_(2015)-CLEARED-000000?style=for-the-badge&logo=batman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Batman:_Arkham_VR_(2016)-CLEARED-000000?style=for-the-badge&logo=playstationvr&logoColor=white" />
+  <img src="https://img.shields.io/badge/Suicide_Squad:_Kill_the_Justice_League_(2024)-CLEARED-7C3AED?style=for-the-badge&logo=dc&logoColor=white" />
+</p>
+
+### ⚔️ 2. God of War: The Complete Greek & Norse Sagas (9/9 Titles)
+<p align="left">
+  <img src="https://img.shields.io/badge/God_of_War_(2005)-CLEARED-B91C1C?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/God_of_War_II_(2007)-CLEARED-B91C1C?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/God_of_War:_Betrayal_(2007)-CLEARED-B91C1C?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/God_of_War:_Chains_of_Olympus_(2008)-CLEARED-B91C1C?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/God_of_War_III_(2010)-CLEARED-B91C1C?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/God_of_War:_Ghost_of_Sparta_(2010)-CLEARED-B91C1C?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/God_of_War:_Ascension_(2013)-CLEARED-B91C1C?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/God_of_War_(2018)-CLEARED-1E3A8A?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/God_of_War_Ragnarök_(2022)-CLEARED-2563EB?style=for-the-badge&logo=playstation&logoColor=white" />
+</p>
+
+### 🗡️ 3. Assassin's Creed: The Complete Animus Chronicles (13 Titles)
+<p align="left">
+  <img src="https://img.shields.io/badge/Assassin's_Creed_(2007)-CLEARED-1F2937?style=for-the-badge&logo=ubisoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assassin's_Creed_II_(2009)-CLEARED-1F2937?style=for-the-badge&logo=ubisoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assassin's_Creed_Brotherhood_(2010)-CLEARED-1F2937?style=for-the-badge&logo=ubisoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assassin's_Creed_Revelations_(2011)-CLEARED-1F2937?style=for-the-badge&logo=ubisoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assassin's_Creed_III_(2012)-CLEARED-1F2937?style=for-the-badge&logo=ubisoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assassin's_Creed_IV:_Black_Flag_(2013)-CLEARED-047857?style=for-the-badge&logo=ubisoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assassin's_Creed_Rogue_(2014)-CLEARED-1F2937?style=for-the-badge&logo=ubisoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assassin's_Creed_Unity_(2014)-CLEARED-1E40AF?style=for-the-badge&logo=ubisoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assassin's_Creed_Syndicate_(2015)-CLEARED-1F2937?style=for-the-badge&logo=ubisoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assassin's_Creed_Origins_(2017)-CLEARED-D97706?style=for-the-badge&logo=ubisoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assassin's_Creed_Odyssey_(2018)-CLEARED-B45309?style=for-the-badge&logo=ubisoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assassin's_Creed_Valhalla_(2020)-CLEARED-065F46?style=for-the-badge&logo=ubisoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assassin's_Creed_Mirage_(2023)-CLEARED-D97706?style=for-the-badge&logo=ubisoft&logoColor=white" />
+</p>
+
+### 🏙️ 4. Grand Theft Auto: The 3D Era Masterpieces
+<p align="left">
+  <img src="https://img.shields.io/badge/Grand_Theft_Auto_III_(2001)-CLEARED-374151?style=for-the-badge&logo=rockstargames&logoColor=white" />
+  <img src="https://img.shields.io/badge/GTA:_Vice_City_(2002)-CLEARED-EC4899?style=for-the-badge&logo=rockstargames&logoColor=white" />
+  <img src="https://img.shields.io/badge/GTA:_San_Andreas_(2004)-CLEARED-F59E0B?style=for-the-badge&logo=rockstargames&logoColor=white" />
+  <img src="https://img.shields.io/badge/GTA:_Liberty_City_Stories_(2005)-CLEARED-4B5563?style=for-the-badge&logo=rockstargames&logoColor=white" />
+  <img src="https://img.shields.io/badge/GTA:_Vice_City_Stories_(2006)-CLEARED-F43F5E?style=for-the-badge&logo=rockstargames&logoColor=white" />
+</p>
+
+### 🧭 5. Uncharted: Nathan Drake & Chloe Frazer Adventures
+<p align="left">
+  <img src="https://img.shields.io/badge/Uncharted:_Drake's_Fortune_(2007)-CLEARED-0284C7?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uncharted_2:_Among_Thieves_(2009)-CLEARED-0284C7?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uncharted_3:_Drake's_Deception_(2011)-CLEARED-0284C7?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uncharted_4:_A_Thief's_End_(2016)-CLEARED-0369A1?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uncharted:_The_Lost_Legacy_(2017)-CLEARED-075985?style=for-the-badge&logo=playstation&logoColor=white" />
+</p>
+
+### 🕸️ 6. The Spider-Man Multiverse
+<p align="left">
+  <img src="https://img.shields.io/badge/Spider--Man_(2000)-CLEARED-E11D48?style=for-the-badge&logo=marvel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spider--Man_2_(2004)-CLEARED-E11D48?style=for-the-badge&logo=marvel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spider--Man:_Web_of_Shadows_(2008)-CLEARED-000000?style=for-the-badge&logo=marvel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Marvel's_Spider--Man:_Miles_Morales-CLEARED-E11D48?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Marvel's_Spider--Man_2-CLEARED-BE123C?style=for-the-badge&logo=playstation&logoColor=white" />
+</p>
+
+### ⏳ 7. Prince of Persia: Sands of Time & The Lost Crown
+<p align="left">
+  <img src="https://img.shields.io/badge/PoP:_The_Sands_of_Time_(2003)-CLEARED-D97706?style=for-the-badge&logo=ubisoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/PoP:_Warrior_Within_(2004)-CLEARED-7F1D1D?style=for-the-badge&logo=ubisoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/PoP:_The_Two_Thrones_(2005)-CLEARED-991B1B?style=for-the-badge&logo=ubisoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prince_of_Persia_(2008)-CLEARED-D97706?style=for-the-badge&logo=ubisoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/PoP:_The_Forgotten_Sands_(2010)-CLEARED-B45309?style=for-the-badge&logo=ubisoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/PoP:_The_Lost_Crown_(2024)-CLEARED-6366F1?style=for-the-badge&logo=ubisoft&logoColor=white" />
+</p>
+
+### 🕶️ 8. Hitman: Agent 47 Master Assassin
+<p align="left">
+  <img src="https://img.shields.io/badge/Hitman:_Blood_Money_(2006)-CLEARED-000000?style=for-the-badge&logo=target&logoColor=red" />
+  <img src="https://img.shields.io/badge/Hitman:_Absolution_(2012)-CLEARED-991B1B?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hitman:_World_of_Assassination_(Trilogy)-CLEARED-000000?style=for-the-badge&logo=target&logoColor=white" />
+</p>
+
+### 🧬 9. Open-World Cyber Vigilantes & Chaos
+<p align="left">
+  <img src="https://img.shields.io/badge/Prototype_(2009)-CLEARED-881337?style=for-the-badge&logo=activision&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prototype_2_(2012)-CLEARED-9F1239?style=for-the-badge&logo=activision&logoColor=white" />
+  <img src="https://img.shields.io/badge/Just_Cause_(2006)-CLEARED-E11D48?style=for-the-badge&logo=squareenix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Just_Cause_2_(2010)-CLEARED-E11D48?style=for-the-badge&logo=squareenix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Just_Cause_3_(2015)-CLEARED-E11D48?style=for-the-badge&logo=squareenix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sleeping_Dogs_(2012)-CLEARED-B91C1C?style=for-the-badge&logo=squareenix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Watch_Dogs_(2014)-CLEARED-1E293B?style=for-the-badge&logo=ubisoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Watch_Dogs_2_(2016)-CLEARED-0284C7?style=for-the-badge&logo=ubisoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Watch_Dogs:_Legion_(2020)-CLEARED-059669?style=for-the-badge&logo=ubisoft&logoColor=white" />
+</p>
+
+### 🔥 10. PS2 Golden Era Icons, Speed & Martial Arts
+<p align="left">
+  <img src="https://img.shields.io/badge/Mortal_Kombat:_Shaolin_Monks_(2005)-CLEARED-DC2626?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/God_Hand_(2006)-CLEARED-D97706?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resident_Evil_4_(2005)-CLEARED-991B1B?style=for-the-badge&logo=capcom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadow_of_the_Colossus_(2005)-CLEARED-475569?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bully_(2006)-CLEARED-2563EB?style=for-the-badge&logo=rockstargames&logoColor=white" />
+  <img src="https://img.shields.io/badge/Total_Overdose_(2005)-CLEARED-F59E0B?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jet_Li:_Rise_to_Honor-CLEARED-B91C1C?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jackie_Chan_Adventures_(2004)-CLEARED-10B981?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/WWE_SmackDown!_Here_Comes_the_Pain-CLEARED-7C3AED?style=for-the-badge&logo=wwe&logoColor=white" />
+  <img src="https://img.shields.io/badge/NFS:_Underground_2_(2004)-CLEARED-059669?style=for-the-badge&logo=ea&logoColor=white" />
+  <img src="https://img.shields.io/badge/NFS:_Most_Wanted_(2005)-CLEARED-EA580C?style=for-the-badge&logo=ea&logoColor=white" />
+  <img src="https://img.shields.io/badge/The_Simpsons:_Hit_%26_Run_(2003)-CLEARED-FBBF24?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Madagascar:_Escape_2_Africa_(2008)-CLEARED-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Madagascar_3:_Europe's_Most_Wanted_(2012)-CLEARED-3B82F6?style=for-the-badge" />
+</p>
+
+---
+
 ## 🎧 The Heavy Rotation • Nocturnal Soundscape
 
 <div align="center">
@@ -190,28 +324,6 @@
 </table>
 
 </div>
-
----
-
-## 🎮 The Story Vault • Games with Soul
-
-<div align="center">
-
-> *"Give me a story worth following, characters worth remembering, and an atmosphere worth losing sleep over."*
-
-</div>
-
-```text
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║                          LORE & ATMOSPHERE SELECTIONS                            ║
-╠══════════════════════════════════════════════════════════════════════════════════╣
-║  🦇 BATMAN: ARKHAM TRILOGY  │ "I am vengeance. I am the night. I am Batman."    ║
-║  🐺 THE WITCHER 3           │ "Evil is Evil... If I'm to choose, I'd rather not." ║
-║  🤠 RED DEAD REDEMPTION 2   │ "We're more ghosts than people."                  ║
-║  🦾 CYBERPUNK 2077          │ "A city of dreams, and I'm a big dreamer."         ║
-║  🌌 SOULSBORNE / ELDEN RING │ "Foul Tarnished, in search of the Elden Ring......"║
-╚══════════════════════════════════════════════════════════════════════════════════╝
-```
 
 ---
 
@@ -261,10 +373,12 @@ AI SYNERGY PROTOCOL:
 ├── Generation & Synthesis: ChatGPT, Grok, Gemini, Lovable
 └── Creative Visuals: Canva Magic Studio & Midjourney
 
-FAVORITE MOVIES & FICTION:
-├── The Batman / The Dark Knight Trilogy (Nocturnal justice)
-├── Fight Club (Psychological depth & existential inquiry)
-└── Cyberpunk Edgerunners (High tech, low life, neon tragedy)
+GAMING CODEX:
+├── Total Finished Campaigns: 67 Titles
+├── Legendary Runs: God of War Greek & Norse Pantheons (100%),
+│   Assassin's Creed from Altaïr to Basim (100%),
+│   Nathan Drake's Uncharted Odyssey,
+│   Batman Arkham Hexalogy.
 
 PHILOSOPHY OF THE NIGHT:
 "It is not who I am underneath, but what I do that defines me."
