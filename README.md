@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- HERO CAPSULE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,25:1A102F,50:4C1D95,75:8B5CF6,100:EC4899&height=250&section=header&text=AUSTIN%20J%20ROBIN&fontSize=52&fontAlignY=38&desc=%F0%9F%A6%87%20CYBERSECURITY%20%E2%80%A2%20AI%20ARCHITECT%20%E2%80%A2%20VIBE%20CODER&descAlignY=62&descAlign=50&fontColor=ffffff&descColor=C084FC&animation=twinkling" width="100%" alt="Austin J Robin Banner" />
+<!-- HERO CAPSULE BANNER WITH TWINKLING PARTICLES -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,25:1A102F,50:4C1D95,75:8B5CF6,100:EC4899&height=260&section=header&text=AUSTIN%20J%20ROBIN&fontSize=52&fontAlignY=38&desc=%F0%9F%A6%87%20CYBERSECURITY%20%E2%80%A2%20AI%20ARCHITECT%20%E2%80%A2%20VIBE%20CODER&descAlignY=62&descAlign=50&fontColor=ffffff&descColor=C084FC&animation=twinkling" width="100%" alt="Austin J Robin Banner" />
 
 <!-- ANIMATED TYPING SUBTITLE -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&width=920&height=50&lines=%E2%9A%A1+Cybersecurity+Student+%26+Digital+Defender;%F0%9F%8E%AE+67%2B+Legendary+Game+Campaigns+Conquered;%F0%9F%8E%A7+Heavy+Rotation%3A+MJ+All+Albums+%E2%80%A2+Graduation+%E2%80%A2+GNX+%E2%80%A2+TPAB+%E2%80%A2+GRODT;%F0%9F%A7%A0+Autonomous+AI+Fleet%3A+Cursor+%E2%80%A2+Claude+Code+%E2%80%A2+Antigravity;%F0%9F%9A%80+Frontier+Intelligence%3A+ChatGPT+%E2%80%A2+Grok+%E2%80%A2+Gemini+%E2%80%A2+Lovable;%F0%9F%A6%87+Gotham+Atmosphere.+Headphones+On.+Zero+Distractions.;%F0%9F%94%A5+%22It's+not+who+I+am+underneath%2C+it's+what+I+do+that+defines+me.%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&width=920&height=50&lines=%E2%9A%A1+Cybersecurity+Student+%26+Defensive+Systems+Architect;%F0%9F%8E%AE+67%2B+Legendary+Game+Campaigns+Conquered;%F0%9F%8E%A7+Heavy+Rotation%3A+MJ+Discography+%E2%80%A2+Graduation+%E2%80%A2+GNX+%E2%80%A2+TPAB;%F0%9F%A7%A0+Autonomous+AI+Fleet%3A+Cursor+%E2%80%A2+Claude+Code+%E2%80%A2+Antigravity;%F0%9F%9A%80+Frontier+Intelligence%3A+ChatGPT+%E2%80%A2+Grok+%E2%80%A2+Gemini+%E2%80%A2+Lovable;%F0%9F%A6%87+Gotham+Atmosphere.+Headphones+On.+Zero+Distractions.;%F0%9F%94%A5+%22It's+not+who+I+am+underneath%2C+it's+what+I+do+that+defines+me.%22" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- STATUS BADGES -->
+<!-- STATUS BADGES WITH ANIMATED PULSE -->
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-7C3AED?style=for-the-badge&logo=shield&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/LOCATION-GOTHAM_AFTER_HOURS-1F1D36?style=for-the-badge&logo=batman&logoColor=A78BFA" alt="Location" />
@@ -31,11 +31,15 @@
   </a>
 </p>
 
+<!-- ANIMATED CYBER RADAR HUD SCOPE -->
+<img src="./assets/cyber-radar.svg" width="100%" alt="Cyber Radar HUD" />
+
 </div>
 
----
+<!-- ANIMATED LASER DIVIDER -->
+<img src="./assets/laser-divider.svg" width="100%" alt="Laser Divider" />
 
-### 📡 `austin@gotham:~# cat /etc/identity.conf`
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" alt="Terminal" /> `austin@gotham:~# cat /etc/identity.conf`
 
 ```ini
 [IDENTITY]
@@ -51,11 +55,12 @@
   "It's only after we've lost everything that we're free to do anything."
 ```
 
----
+<!-- ANIMATED LASER DIVIDER -->
+<img src="./assets/laser-divider.svg" width="100%" alt="Laser Divider" />
 
 <div align="center">
 
-## ⚡ The Vibe Coding Doctrine
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="34" alt="Fire" /> The Vibe Coding Doctrine
 
 > *"Vibe coding isn't about skipping the work—it's about removing friction between pure imagination and execution."*
 
@@ -64,28 +69,29 @@
 <table>
   <tr>
     <td width="33%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="55" alt="Vision" /><br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="60" alt="Vision" /><br/><br/>
       <b>01 // THE VISION</b><br/>
       <sub>Start with an intuition. No waiting for permission. Envision the interface, the security perimeter, or the concept with zero compromise.</sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="55" alt="AI Pairing" /><br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="60" alt="AI Pairing" /><br/><br/>
       <b>02 // AI SYMBIOSIS</b><br/>
       <sub>Collaborate with an entire fleet of cutting-edge models as cognitive exoskeletons. Rapid prototyping, intelligent debugging, and continuous synthesis.</sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="55" alt="Polish" /><br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="60" alt="Polish" /><br/><br/>
       <b>03 // OBSESSIVE CRAFT</b><br/>
       <sub>Shape it until it feels undeniably mine. Top-tier animations, resilient edge-case handling, and distinct nocturnal aesthetics.</sub>
     </td>
   </tr>
 </table>
 
----
+<!-- ANIMATED LASER DIVIDER -->
+<img src="./assets/laser-divider.svg" width="100%" alt="Laser Divider" />
 
 <div align="center">
 
-## 🤖 The AI Exoskeleton • Neural Arsenal & Autonomous Fleet
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="34" alt="Robot" /> The AI Exoskeleton • Neural Arsenal & Autonomous Fleet
 
 *Orchestrating state-of-the-art intelligence to build, research, and defend at superhuman velocity.*
 
@@ -126,11 +132,19 @@
   <img src="https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white" alt="Midjourney" />
 </p>
 
----
-
-## 🛡️ Cyber Arsenal & Tech Stack
+<!-- ANIMATED LASER DIVIDER -->
+<img src="./assets/laser-divider.svg" width="100%" alt="Laser Divider" />
 
 <div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="34" alt="Shield" /> Cyber Arsenal & Cryptographic Fortress
+
+<br/>
+
+<!-- ANIMATED ROTATING CYBER SHIELD LOGO -->
+<img src="./assets/cyber-vault.svg" width="110" alt="Cyber Vault Shield" />
+
+<br/><br/>
 
 ### 🔒 Security, Networks & Core Engines
 <a href="#">
@@ -153,11 +167,12 @@
 
 </div>
 
----
+<!-- ANIMATED LASER DIVIDER -->
+<img src="./assets/laser-divider.svg" width="100%" alt="Laser Divider" />
 
 <div align="center">
 
-## 🎮 The Completed Campaign Vault • 67 Conquered Games
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="34" alt="Gaming" /> The Completed Campaign Vault • 67 Conquered Games
 
 <p align="center">
   <img src="https://img.shields.io/badge/TOTAL_GAMES_CONQUERED-67_TITLES-E11D48?style=for-the-badge&logo=gamepad&logoColor=white" alt="Total Games" />
@@ -286,11 +301,15 @@
 
 </div>
 
----
+<!-- ANIMATED LASER DIVIDER -->
+<img src="./assets/laser-divider.svg" width="100%" alt="Laser Divider" />
 
 <div align="center">
 
-## 🎧 The Heavy Rotation • All-Time Favorite Albums
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="34" alt="Headphones" /> The Heavy Rotation • All-Time Favorite Albums
+
+<!-- ANIMATED NEON AUDIO EQUALIZER VISUALIZER -->
+<img src="./assets/audio-equalizer.svg" width="100%" alt="Neon Audio Equalizer" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/HEAVY_ROTATION-VINYL_&_LOSSLESS-8B5CF6?style=for-the-badge&logo=applemusic&logoColor=white" alt="Lossless" />
@@ -334,11 +353,24 @@
 
 </div>
 
----
-
-## 📊 Live Telemetry & GitHub Analytics
+<!-- ANIMATED LASER DIVIDER -->
+<img src="./assets/laser-divider.svg" width="100%" alt="Laser Divider" />
 
 <div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="34" alt="Analytics" /> Live Telemetry & GitHub Analytics
+
+<br/>
+
+<!-- ANIMATED GITHUB PROFILE TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=AUSTIN-JR&theme=tokyonight&no-frame=true&no-bg=true&margin_w=12&row=1&column=7" width="100%" alt="GitHub Trophies" />
+
+<br/><br/>
+
+<!-- ANIMATED CONTRIBUTION GRID SNAKE -->
+<img src="./assets/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+
+<br/><br/>
 
 <!-- STATS & STREAK GRID -->
 <table border="0">
@@ -363,13 +395,19 @@
 
 </div>
 
----
+<!-- ANIMATED LASER DIVIDER -->
+<img src="./assets/laser-divider.svg" width="100%" alt="Laser Divider" />
 
 ## 🦇 Encrypted Batcomputer Archives
 
 <details>
-<summary><b>▶ CLICK TO DECRYPT GOTHAM DOSSIER // [CLASSIFIED]</b></summary>
+<summary><b>▶ CLICK TO DECRYPT GOTHAM DOSSIER // [CLASSIFIED TERMINAL FEED]</b></summary>
 <br/>
+
+<!-- DYNAMIC ANIMATED TERMINAL TYPING SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2400&pause=1000&color=38BDF8&background=0D1117&center=false&vCenter=true&width=800&height=110&lines=%24+ssh+austin%40gotham-node-7+-p+4096;%5B%2B%5D+CRYPTO-ENCLAVE%3A+AES-256-CBC+%2B+HMAC-SHA256+ACTIVE;%24+fleet-status+--all-subagents;%5B%2B%5D+COGNITIVE+FLEET%3A+Cursor+%E2%80%A2+Claude+Code+%E2%80%A2+Antigravity;%24+security-audit+--pass-shield+--trust-lens;%5B%E2%9C%93%5D+ZERO-KNOWLEDGE+DOM+%E2%80%A2+BLOCKCHAIN+IMMUTABLE" alt="Interactive Batcomputer Terminal" />
+</p>
 
 ```text
 [GOTHAM CITY TERMINAL // NODE-7]
@@ -399,12 +437,13 @@ The night is young, the terminal is open, and there is always something to build
 
 </details>
 
----
+<!-- ANIMATED LASER DIVIDER -->
+<img src="./assets/laser-divider.svg" width="100%" alt="Laser Divider" />
 
 <div align="center">
 
 <!-- FOOTER ANIMATED WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,50:4C1D95,100:8B5CF6&height=120&section=footer" width="100%" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,50:4C1D95,100:8B5CF6&height=130&section=footer" width="100%" alt="Footer Wave" />
 
 <p align="center">
   <sub><b>Austin J Robin</b> • Powered by autonomous AI agents, curiosity, and high-octane vibe coding.</sub><br/>
