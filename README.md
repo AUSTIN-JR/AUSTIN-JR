@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HERO CAPSULE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,25:1A102F,50:4C1D95,75:8B5CF6,100:EC4899&height=250&section=header&text=AUSTIN%20J%20ROBIN&fontSize=52&fontAlignY=38&desc=%F0%9F%A6%87%20CYBERSECURITY%20%E2%80%A2%20VIBE%20CODER%20%E2%80%A2%20GOTHAM%20NOCTURNE&descAlignY=62&descAlign=50&fontColor=ffffff&descColor=C084FC&animation=twinkling" width="100%" alt="Austin J Robin Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,25:1A102F,50:4C1D95,75:8B5CF6,100:EC4899&height=250&section=header&text=AUSTIN%20J%20ROBIN&fontSize=52&fontAlignY=38&desc=%F0%9F%A6%87%20CYBERSECURITY%20%E2%80%A2%20AI%20ARCHITECT%20%E2%80%A2%20VIBE%20CODER&descAlignY=62&descAlign=50&fontColor=ffffff&descColor=C084FC&animation=twinkling" width="100%" alt="Austin J Robin Banner" />
 
 <!-- ANIMATED TYPING SUBTITLE -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&width=880&height=50&lines=%E2%9A%A1+Cybersecurity+Specialist+in+Training;%F0%9F%A6%87+Gotham+Atmosphere.+Headphones+On.+Zero+Distractions.;%F0%9F%92%BB+Vibe+Coding%3A+Shaping+AI+%2B+Curiosity+into+Masterpieces;%F0%9F%8E%A7+Soundtrack%3A+Tupac+%E2%80%A2+Kendrick+%E2%80%A2+Kanye+%E2%80%A2+Michael+Jackson;%F0%9F%8E%AE+Story-Driven+Gamer+Hunting+For+Deep+Atmosphere+%26+Lore;%F0%9F%94%A5+%22It's+not+who+I+am+underneath%2C+it's+what+I+do+that+defines+me.%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&width=900&height=50&lines=%E2%9A%A1+Cybersecurity+Student+%26+Digital+Defender;%F0%9F%A7%A0+Autonomous+AI+Fleet%3A+Cursor+%E2%80%A2+Claude+Code+%E2%80%A2+Antigravity;%F0%9F%9A%80+Frontier+Intelligence%3A+ChatGPT+%E2%80%A2+Grok+%E2%80%A2+Gemini+%E2%80%A2+Lovable;%F0%9F%A6%87+Gotham+Atmosphere.+Headphones+On.+Zero+Distractions.;%F0%9F%8E%A7+Soundtrack%3A+Tupac+%E2%80%A2+Kendrick+%E2%80%A2+Kanye+%E2%80%A2+Michael+Jackson;%F0%9F%94%A5+%22It's+not+who+I+am+underneath%2C+it's+what+I+do+that+defines+me.%22" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-7C3AED?style=for-the-badge&logo=shield&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/LOCATION-GOTHAM_AFTER_HOURS-1F1D36?style=for-the-badge&logo=batman&logoColor=A78BFA" alt="Location" />
-  <img src="https://img.shields.io/badge/METHOD-VIBE_CODING_PROTOCOL-EC4899?style=for-the-badge&logo=sparkles&logoColor=white" alt="Method" />
+  <img src="https://img.shields.io/badge/METHOD-AI_AUGMENTED_VIBE_CODER-EC4899?style=for-the-badge&logo=sparkles&logoColor=white" alt="Method" />
   <img src="https://komarev.com/ghpvc/?username=AUSTIN-JR&label=RADAR+VIEWS&color=8b5cf6&style=for-the-badge" alt="Views" />
 </p>
 
@@ -40,11 +40,11 @@
 ```ini
 [IDENTITY]
   Operator        = Austin J Robin (AUSTIN-JR)
-  Designation     = Cybersecurity Student & Digital Defender
-  Philosophy      = Vibe Coding (Idea → AI Acceleration → Iterative Polish)
+  Designation     = Cybersecurity Student & AI-Augmented Builder
+  Philosophy      = Vibe Coding (Idea → Multi-Agent Orchestration → Flawless Execution)
   Atmosphere      = Gotham rain, midnight neon, high-fidelity bass in headphones
-  Core Values     = Relentless Curiosity • System Resilience • Uncompromising Style
-  Current Focus   = Offensive/Defensive Cyber, Network Architecture & Modern Web
+  Core Arsenal    = Cursor, Claude Code, Google Antigravity, ChatGPT, Grok, Lovable
+  Current Mission = Offensive/Defensive Security, AI Workflows & Next-Gen Web Craft
 
 [ACTIVE_DIRECTIVE]
   "It's only after we've lost everything that we're free to do anything."
@@ -70,7 +70,7 @@
     <td width="33%" align="center">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="55" alt="AI Pairing" /><br/>
       <b>02 // AI SYMBIOSIS</b><br/>
-      <sub>Collaborate with state-of-the-art models as cognitive exoskeletons. Rapid prototyping, intelligent debugging, and continuous synthesis.</sub>
+      <sub>Collaborate with an entire fleet of cutting-edge models as cognitive exoskeletons. Rapid prototyping, intelligent debugging, and continuous synthesis.</sub>
     </td>
     <td width="33%" align="center">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="55" alt="Polish" /><br/>
@@ -79,6 +79,51 @@
     </td>
   </tr>
 </table>
+
+---
+
+<div align="center">
+
+## 🤖 The AI Exoskeleton • Neural Arsenal & Autonomous Fleet
+
+*Orchestrating state-of-the-art intelligence to build, research, and defend at superhuman velocity.*
+
+</div>
+
+<br/>
+
+### ⚡ 1. Autonomous Coding Agents & AI IDEs
+<p align="center">
+  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Windsurf-0F172A?style=for-the-badge&logo=codeforces&logoColor=38BDF8" alt="Windsurf" />
+</p>
+
+### 🧠 2. Frontier Reasoning & LLM Powerhouses
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT_/_OpenAI-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude_3.5_/_3.7-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Grok_xAI-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</p>
+
+### 🚀 3. Full-Stack Vibe Coding & Generative UI
+<p align="center">
+  <img src="https://img.shields.io/badge/Lovable.dev-FF3366?style=for-the-badge&logo=sparkles&logoColor=white" alt="Lovable" />
+  <img src="https://img.shields.io/badge/v0_by_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="v0" />
+  <img src="https://img.shields.io/badge/Bolt.new-F59E0B?style=for-the-badge&logo=lightning&logoColor=white" alt="Bolt.new" />
+</p>
+
+### 🎨 4. Visual Synthesis, Research & Knowledge Engines
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva_Magic_Studio-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Perplexity_AI-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" />
+  <img src="https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white" alt="Midjourney" />
+</p>
 
 ---
 
@@ -100,9 +145,9 @@
 
 <br/><br/>
 
-### 🤖 AI Engineering & Workspace Matrix
+### 🛠️ Developer Workspace & Production Matrix
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=vscode,discord,figma,postman,md&theme=dark" alt="Tools & AI" />
+  <img src="https://skillicons.dev/icons?i=vscode,discord,figma,postman,md&theme=dark" alt="Tools & Workspace" />
 </a>
 
 </div>
@@ -210,6 +255,12 @@
 > Connection encrypted via 4096-bit RSA handshake.
 > Security Protocol: ARKHAM-DEFENDER
 
+AI SYNERGY PROTOCOL:
+├── Primary IDEs: Cursor & Google Antigravity
+├── CLI Companion: Claude Code
+├── Generation & Synthesis: ChatGPT, Grok, Gemini, Lovable
+└── Creative Visuals: Canva Magic Studio & Midjourney
+
 FAVORITE MOVIES & FICTION:
 ├── The Batman / The Dark Knight Trilogy (Nocturnal justice)
 ├── Fight Club (Psychological depth & existential inquiry)
@@ -231,7 +282,7 @@ The night is young, the terminal is open, and there is always something to build
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,50:4C1D95,100:8B5CF6&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 <p align="center">
-  <sub><b>Austin J Robin</b> • Crafted with dark aesthetics, curiosity, and high-octane vibe coding.</sub><br/>
+  <sub><b>Austin J Robin</b> • Powered by autonomous AI agents, curiosity, and high-octane vibe coding.</sub><br/>
   <sub>🦇 <i>"Stay dangerous. Keep building."</i> 🦇</sub>
 </p>
 
